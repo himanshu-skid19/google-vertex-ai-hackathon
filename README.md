@@ -28,6 +28,8 @@ The Challenge was to build a no/low-code conversational AI agent using Vertex AI
     We develop an additional agent specifically designed for CV review. Users can submit their CV to the agent, which then performs a thorough analysis using a detailed prompt.
     The agent will provide comprehensive feedback, highlighting strengths and areas for improvement, ensuring the user’s resume is polished and effective.
 
+![TV - 1](https://github.com/himanshu-skid19/vertex-ai/assets/114365148/7cef9ca5-c4c4-4279-8a76-9cc618a30cd5)
+
 
 
 ## Installation and Setup    
