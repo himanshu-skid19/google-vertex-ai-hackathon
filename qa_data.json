@@ -1,0 +1,10 @@
+[
+    {
+        "question": "<start>What is AI?</start>",
+        "answer": "Artificial Intelligence"
+    },
+    {
+        "question": "What is ML?",
+        "answer": "Machine Learning"
+    }
+]
