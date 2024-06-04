@@ -62,7 +62,8 @@ make -j2
 ```
 
 6. Run ```pip install -r requirements.txt```.
-
+## Demo Video
+![demo vid](https://youtu.be/zrOSdnTL2gs)
 ## Project Architecture
 ```
 ├── README.md
