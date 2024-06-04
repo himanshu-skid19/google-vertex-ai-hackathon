@@ -36,8 +36,10 @@ The Challenge was to build a no/low-code conversational AI agent using Vertex AI
 ### Setup 
 1. Run `git clone https://github.com/himanshu-skid19/GoogleVertexAIHackathon.git`
 2. Go to the directory by running `cd GoogleVertexAIHackathon`
-3. Run `pip install -r requirements.txt`
-4. Start the application by running `chainlit run app.py -w`
+3. Make sure to add your api keys in `config.py`
+4. Create your `credentials.json` from google cloud auth and add it here.
+5. Run `pip install -r requirements.txt`
+6. Start the application by running `chainlit run app.py -w`
 
 ### Instructions to setup for windows
 
