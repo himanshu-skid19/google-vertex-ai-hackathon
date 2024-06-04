@@ -67,16 +67,28 @@ make -j2
 ](https://youtu.be/zrOSdnTL2gs)
 ## Project Architecture
 ```
+├── Dockerfile
 ├── README.md
 ├── app.py
 ├── audio_processing.py
+├── call.py
 ├── chainlit.md
+├── codeforces.py
 ├── config.py
-├── credentials.json
-├── evaluate_interview.py
+├── evaluator.py
 ├── image_processing.py
+├── public
+│   ├── leaf.png
+│   ├── logo.png
+│   ├── logo2.png
+│   ├── robot.jpg
+│   └── robot.png
+├── qa_data.json
+├── rag_ML.py
+├── rag_SDE.py
 ├── request.json
 ├── requirements.txt
+├── tts.py
 └── vertex_agent.py
 ```
 
