@@ -63,8 +63,8 @@ make -j2
 
 6. Run ```pip install -r requirements.txt```.
 ## Demo Video
-[![demo vid]]((https://github.com/himanshu-skid19/vertex-ai/assets/114365148/70c1d528-41be-48ec-962e-8c1a92ebe5f9)
-)(https://youtu.be/zrOSdnTL2gs)
+[![demo vid]((https://github.com/himanshu-skid19/vertex-ai/assets/114365148/70c1d528-41be-48ec-962e-8c1a92ebe5f9)
+)](https://youtu.be/zrOSdnTL2gs)
 ## Project Architecture
 ```
 ├── README.md
