@@ -22,7 +22,7 @@ The Challenge was to build a no/low-code conversational AI agent using Vertex AI
     This feature provides users with practical coding challenges, enhancing their problem-solving skills in a realistic interview setting.
 
  5. ### Networking tips and job search strategies
-    Ye saundarya likhega
+    We create yet another agent utilizing the web search tool that identifies the user's linkedin profile and based on it, gives the user suggestion on how they might expand their network and build their profile
 
  6. ### CV Review
     We develop an additional agent specifically designed for CV review. Users can submit their CV to the agent, which then performs a thorough analysis using a detailed prompt.
