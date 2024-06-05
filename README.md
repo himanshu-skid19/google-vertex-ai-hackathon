@@ -1,5 +1,5 @@
 # SkillForge
-
+**Note:** Due to testing phases in Codeforces, there are times where the Codeforces API may not work as expected. Moreover, since ElevenLabs Flags an api if one uses it from multiple IP addresses in the free tier, text to voice may not work on the deployed link. You may use your own elevenlabs api and test it locally. Thanks.
 ## Introduction
 The Challenge was to build a no/low-code conversational AI agent using Vertex AI Agent Builder that falls into one of four categories: Knowledge Bot, Lifestyle Bot, Productivity Booster and Customer-Facing Bot. Our idea falls into the Knowledge Bot Category
  where we build a Career Path Advisor that helps users navigate career paths by generating personalized skill development roadmaps, connecting them to relevant online courses and training programs, and offering interview practice with simulated questions and responses.
